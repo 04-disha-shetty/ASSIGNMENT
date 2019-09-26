@@ -17,5 +17,17 @@ A.
 # <h4>Output</h4>:
 For each test case, print the minimum time in which all array elements will become
 greater than or equal to K. Print a new line after each test case.
+
+1<=T<=5 1<=T<=10^5 1<=A[i] k<=10^6
+
+# <h4>Sample Input</h4>:
+2
+
+3 4
+
+1 2 5 3 2 2 5 5
+
+#<h4> Sample output<h4>:
+3 0
 </head>
 </html>
