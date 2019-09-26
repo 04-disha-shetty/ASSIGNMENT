@@ -28,6 +28,6 @@ greater than or equal to K. Print a new line after each test case.
 1 2 5 3 2 2 5 5
 
 #<h4> Sample output<h4>:
-3 0
+30
 </head>
 </html>
